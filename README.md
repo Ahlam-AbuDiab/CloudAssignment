@@ -21,7 +21,7 @@ The program performs machine learning analytics tasks using Spark ML, for exampl
 - Decision Tree Classifier.
 ### 4) Results Output
 - Results are displayed in the notebook output.
-- Outputs can be saved to **DBFS** and downloaded as CSV/JSON.
+- Outputs I saved it a screenshot in pdf file
 ## Tech Stack
 - **Databricks** (Cloud execution environment)
 - **Apache Spark / PySpark**
